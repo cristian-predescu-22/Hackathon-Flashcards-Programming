@@ -1,0 +1,14 @@
+To do for a readme:
+
+- Clone repo
+- Select interpretar 
+- Install requirements.txt
+- sudo apt install python3-tk
+- Run
+
+
+
+To do:
+
+- Learn the library
+- Start developing
